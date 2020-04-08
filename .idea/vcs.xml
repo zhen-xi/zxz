@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="C:/git/idea-repository" vcs="Git" />
     <mapping directory="C:/git/kelong-repos/-depository" vcs="Git" />
     <mapping directory="C:/git/repository" vcs="Git" />
   </component>
